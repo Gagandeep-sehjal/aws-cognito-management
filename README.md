@@ -37,6 +37,9 @@ Before you begin, make sure you have the following:
 3. **Obtain User Pool ID and App Client ID:**
    - Note down the User Pool ID and App Client ID for use in your application.
 
+4.**Install dependencies **
+  -npm install aws-sdk
+
 ## User Operations
 
 ### Sign Up
