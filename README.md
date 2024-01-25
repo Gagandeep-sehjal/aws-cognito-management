@@ -13,6 +13,8 @@ This guide provides instructions for managing user authentication using AWS Cogn
    - [Sign In](#sign-in)
    - [Update Password](#update-password)
    - [Enable/Disable User](#enable-disable-user)
+   - [Delete User](#update-password)
+
 
 ## Prerequisites
 
